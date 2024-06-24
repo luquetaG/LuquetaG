@@ -1,5 +1,5 @@
 ## Boas Vindas a meu Perfil 👋
-## Meu nome é Lucas Gabriel
+Meu nome é Lucas Gabriel
 
   *Estou estudando na Alura
   
