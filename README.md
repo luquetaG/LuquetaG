@@ -1,8 +1,10 @@
-## Hi there 👋
+## Boas Vindas a meu Perfil 👋
 ## Meu nome é Lucas Gabriel
 
   *Estou estudando na Alura
+  
   *Estou me desenvolvendo na linguagem JavaScript
+  
   *Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
